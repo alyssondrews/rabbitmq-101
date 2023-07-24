@@ -1,4 +1,4 @@
-# RabbitMQ Go Project - Hello World
+# RabbitMQ Go 101 - Hello World
 
 ## Overview
 This is a simple Go project that demonstrates the basic usage of RabbitMQ, a message-broker software that allows applications to communicate with each other through a messaging queue. The project consists of two files: `send.go` responsible for sending a message to the queue, and `receive.go` responsible for receiving and processing the message.
